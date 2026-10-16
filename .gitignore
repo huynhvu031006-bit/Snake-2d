@@ -1,0 +1,11 @@
+.vs/
+Debug/
+release?
+x64/
+build/
+SFML/
+.exe
+.obj
+.pdb
+.ilk
+.user
